@@ -1,0 +1,8 @@
+data/dl_data.csv
+data/stocks_price_final.csv
+data/WorldCupPlayers.csv
+
+saved_DataFrames/dataset.csv/*.csv
+saved_DataFrames/dataset.json/*.json
+saved_DataFrames/dataset.parquet/*.parquet
+saved_DataFrames/dataset_select.parquet/*.parquet
